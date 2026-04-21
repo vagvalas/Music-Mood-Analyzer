@@ -81,7 +81,9 @@ cd music-mood-analyzer
 ### 2. Install Playwright browsers
 
 ```bash
+pip install plawright
 playwright install
+pip install spotifyscraper
 ```
 
 ---
